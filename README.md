@@ -25,7 +25,8 @@ I'm Malik Bagwala, founder of [AshterNext](https://ashternext.com). I'm obsessed
 
 #### Building something your users should love? Let's talk.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Malik%20Bagwala-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malikbagwala/)
-[![GitLab Badge](https://img.shields.io/badge/-@MalikBagwala-e2432a?style=flat&labelColor=e2432a&logo=gitlab&logoColor=white)](https://gitlab.com/MalikBagwala)
-[![X Badge](https://img.shields.io/badge/-@MalikBagwala-000000?style=flat&labelColor=000000&logo=x&logoColor=white)](https://x.com/MalikBagwala)
+[![LinkedIn Badge](https://img.shields.io/badge/-Malik%20Bagwala-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maalikb)
+[![GitLab Badge](https://img.shields.io/badge/-@maalikb-e2432a?style=flat&labelColor=e2432a&logo=gitlab&logoColor=white)](https://gitlab.com/maalikb)
+[![X Badge](https://img.shields.io/badge/-@maalik__b-000000?style=flat&labelColor=000000&logo=x&logoColor=white)](https://x.com/maalik_b)
+[![Upwork Badge](https://img.shields.io/badge/-Upwork-14a800?style=flat&labelColor=14a800&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01142ad14ffbcfbe3b)
 [![Mail Badge](https://img.shields.io/badge/-malik@ashternext.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:malik@ashternext.com)
