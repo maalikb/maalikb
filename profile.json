@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "label": "FULLSTACK ENGINEER AT DOCK",
+    "first": "Maalik",
+    "last": "Bagwala",
+    "tagline": "Exceptional user experiences, supercharged by AI. I design and build apps, websites and SaaS at AshterNext.",
+    "link": "ashternext.com",
+    "alt": "Maalik Bagwala, fullstack engineer at Dock. Exceptional user experiences, supercharged by AI. I design and build apps, websites and SaaS at AshterNext."
+  },
+  "tiles": [
+    {
+      "id": "build",
+      "label": "BUILD",
+      "value": "3",
+      "unit": "products",
+      "body": "Cashout, OttoTrail and 12Cards, designed, built and shipped at AshterNext.",
+      "color": "#6d213c",
+      "url": "https://ashternext.com"
+    },
+    {
+      "id": "lead",
+      "label": "LEAD",
+      "value": "50K+",
+      "unit": "tonnes",
+      "body": "Traded by farmers on setu-trade, the platform I led as CTO at Vesatogo.",
+      "color": "#0e7490",
+      "url": "https://www.linkedin.com/in/maalikb"
+    },
+    {
+      "id": "ship",
+      "label": "SHIP",
+      "value": "7",
+      "unit": "years",
+      "body": "Shipping web, mobile and AI products since 2019, now for clients worldwide.",
+      "color": "#f0a55b",
+      "dark": true,
+      "url": "https://www.upwork.com/freelancers/~01142ad14ffbcfbe3b"
+    }
+  ],
+  "building": {
+    "title": "What I'm",
+    "accent": "building",
+    "items": [
+      {
+        "id": "cashout",
+        "name": "Cashout",
+        "body": "Expense manager: scan receipts, split with friends, set budgets. Works offline.",
+        "stack": "Flutter · Supabase",
+        "color": "#15803d",
+        "url": "https://ashternext.com/p/cashout"
+      },
+      {
+        "id": "ottotrail",
+        "name": "OttoTrail",
+        "body": "EV trip logger for the Punch.ev. The car logs itself over OBD.",
+        "stack": "Flutter · OBD · MCP",
+        "color": "#1d4ed8",
+        "url": "https://ashternext.com/p/ottotrail"
+      },
+      {
+        "id": "12cards",
+        "name": "12Cards",
+        "body": "Real-time card game for betting-shop kiosks, every screen in sync.",
+        "stack": "React · Hono · Postgres",
+        "color": "#c2410c",
+        "url": "https://ashternext.com/p/12cards"
+      }
+    ]
+  }
+}

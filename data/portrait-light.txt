@@ -1,0 +1,101 @@
+                                                                                                               -+:
+                                                                                                           .**=-           ..
+                                                                                             .-+++:.      o#****ooo*+ .=*%MMM#%*:
+                                                                                -          :o#M@#%=:+-   %MMM%o:....+%%MMMMMMM##%o.
+                                                                               o-        =#MMMM%o**%=*o*oMMMMM#M###%#MMMM#%o+:*#Mo%:
+                                                                              oM       .#M#*:+:o##M@#M%oMMMM#%##########MMMM%%oo%##%=...:
+                                                                              %M+      #MM%###MMMM###MM#######MMM####%########%##%###Mo*@#*:
+                                                                              +MM#*+:.=MM####MMMMMMMM#MMMM########MMM#oo###%##%%o%%%#MM%##M@#o+
+                                                                        .*o#%o%*##MMMMMMM##%#MM#%%%oo***%##MMM########%oo%#%%###%%%%%#%%%%%%%%%o#%*o##*=+-
+                                                                        +MMM########MMMM#%%#M#%%###%%oo%%####MMMM######*o*##%######%%%%o%%ooo******:*MM*=*+:
+                                                                        oMMMM#############MM*######o%####MMMMMMMMM#%%##%o#%###M###%#####%###%ooo%%oo*=#*+ :o:
+                                                                    -  +#MMMM###MMMM######M###MM#%####MM#%MMMMMMMMM#%o%o%#####MMM##MM####%o*oo%#MMMM#%.+%  =
+                                                                    **%MMMMMM#####MM#####MMMMMM###MMMM######MMMMMMM####%%#####MMMMM#o###%%%%%%%%%###MM+=#.   --
+                                                             =%##%###MMMMMMMMM###%#M#%%%##MMMMMM#MMMM#%%%###%##MMMM###M####M##MMMMM%#MM#####M######%###MM-. -%
+                                                          :o#M######M#%o####MMMMM#%##%oo##MMMMMMMMM#####MMMMMMMMMMMM#########MMMMMMMMM####MM*#M#%%###%%M#o*##-
+                                                       .++:*%%%%%%######MMMMMMMMM#####%%%%##MMMMMM%#M##M##MMMMMMMMMMM##MM#MM####MMMMM#####M#MM#%#MMMMM#MM#%#:.
+                                                      o%:=oo%##o*o%%%######MMMMMM############MMMMM#MM#M#MMMMMMMMMMMMMMMMMMMMMMMMMMMM#####M#M%*#MM#M####%o*o: :*+o+
+                                                       :oo%MM%o%##########MM#MMMMM######%MMMMMMMMMMM####MMMMMMMMMMMMMMMMMMMMMMMMMM#####MMMM#:#MMMMM##%##o*%%%*+=oMo
+                                                       =o#MM%#############MMo##MMMMMM#%###MMMMMMMMMMM##MMMMMM####MM##MM#MMMMMMMMMMMMMMMMMM###MMMMM##MMMM%%##%o%o#=#.
+                                                      *o%MM##MMMMMM#MMMMMMMM#####MMMMMMMMMMMMMMMM#MMMMMM#M##%%ooooooooo%%###MMMMMMMMMMMMM###MMMMMMMMMMM#%#####%##=*=
+                                                     :o%#MMM######MMMMMMMMMMM############MMMMMMMMMMM#M#%#***+=++::::+++=**%oo###MMMMMMMMMMMMMMM#MMMMM##########M#=*=
+                                                    =M#%#M#%######MMMMMMMMMMMM########MMMM#MMMMM####%##=+*:::----:--:---::=*+=o%%%MMMMMMMMMMMM##MM###%##MMM#MMMM%o#o.
+                                                  -+#MM##%#####MMMMMMMMMMMMMMMMMMMMM#M#MMM#%%##%o%**%#*:::-.....        ...:=++**oo#%##MMMMMMM#MM###M##MMMMMMM###Mo*.
+                                                .+oMM##M##M#MMMMMMM#MMMMMMM#MM#########MMMM####%%%ooo%-...                   .:::=+=o*%%%#MM##MMM#####MMMMMMMMMM#***
+                                                +#MM#######MMMM%%#####MMMMMMM#########MMMM#%oo***=*++:.                        ..-:::**o%#MMMMMM###MMMMMMMMMM####%o%%.
+                                               :#+:o%##%###MM#####%%#######MMMMMMMMMMMMMM#%%*++::--::.      .                    .-:++=%o%o*o%#MMMMMMMMMMMM#####%o*o*:-..
+                                               ++*%###o%###M##########M###MMMMMMMM###MMM#%%*=:.-...                                 .----:++o*o%MMMMMMMMMMMMM##o**o%MM* .
+                                            *+ +MMMMM%%##MMMMo##MMM#####MMMMMMMM####M####oo=::..              ..   .                  ..-::::++*%MMMMMMMMM*#%o*oo%MM#*o*
+                                            ##*#MMMM%###%MMMMMMMMMM###MMMMMMMMMMMM######%%*+:-.                                           ..-:::+oMMMMMM#M###%*o####o .
+                                            +#MMMMMM#MM##MMMMMMMMM#MMM#MMMM#MMMM####M##%%o==-..               .                               .-:+%MMMMM##o%%MM#o=:.
+                                             :#MMMMMMMM#*MMMMMMMM#MMMMMMMMM#M#####%##%%%%o*+-                                                   .:+#MMMMMM##%%#M#-
+                                              %MMMMMMM####MMMMMMMMMMMMMM#M#######%%#%%%%%*:                                                 ..   .:*MMMM#MM##%%%%#-
+                                             %MMMMMMMM####MMMMMMMMMMMM####M######%%%%##o:              .:+==+:-...                         .      .:#MMMMM##%%%##oo
+                                            +MMMMMM######MMMMMMMM#MMM#M########%%%%#%=.            .:*#######%%%o*+:-.                     . .   ...oMMMMMMM##=.+%
+                                             ##M#######MMMMMMMMMM#MM#M####%%#%%%##%:.           .=#MMM######MMMMM####%o=:..                      ...:@MMMM####=
+                                             :-######MMMMMMMM#M#M#M##M##%#%%%%%#%+.        .:o%%##############MMMMMMMMMM#%o:-                    ....@MMM##%##o=
+                                               =###MMMMMMMMM#M#M########%%##%%%%+      :**%#M##o*M#*====*oo%%%%%###MMMMMM#M#*:-                  ....#MMMM#Mo##.
+                                               #M#MMMMMMMMMMMM###M####%%###%#%%o. :=o###%MM###M##%    :+++==*oooo%%%########%o=.                 .--.%MMMM#o.++
+                                               %M@M##MMMMMMM#####M##%##%#%%%%%#%##MM#%*+. .*o=+MM. -===+++++++=**ooooo%%####%o*.    .  .::+::-.. ..-.%MMMMM%#.
+                                               :%@M##MMMMMM##MM##%##%%##%#######o+:.  ...:+:.-:#%:+++:++++++++++=**o***o*o%M##%*:.....+*o%%####o+:...##MM#MMo
+                                                .%M##MMMMMMMMM###%%##%#%######%::::+:::-::--:+=#=:+***+-...--+*ooo*ooo*=====#%++*ooo*=o###MMMMMM#%o=.MM###M-
+                                                 %@M#MMMM@M%oo#@M#####MMM###%%:         ...-:+*M+=*oooo%##%%%o***o##ooo*=++:=M*.-::+o####MMMMMMMMM##*MM##M@.
+                                                 *MMMMM@%.     .=M@MMM###M##%o             --+*M+o##M#*@M=MMM@%M#%%%%oo*+::.-##%#%o*o%####%%%#M#MMM###M#MM=
+                                                  oMMM@+ .:++.    :o#M######o:            .::-+@..:++*o##MMM#o -*##%%o**+:- =##*=*%M###o**ooooo%#%#M##MM%.
+                                                  .#M@+ -o%o+=+.   ..oM####%=               ..=@-.-:+:-::+o%%++=*o%#o+++::*o##+-.:*%##oooo*******o%%%##M=
+                                                    ## .oo*. .*o.    .#M###%.               ..:@=...-:+====**oo%%ooo*++:+##%M-    .#M%%%%%ooo+:====o%#*:%#%:
+                                                    :. ==*.  -o*- ..  oM##%*                   ##     .-+==**oooo**+--.+%%%M-      *@%%%%*=++==+:==+*#.  .%M%:
+                                                    * .=*.      :+.-. *#%%o:                   .##.        ...-... ....#%o#.      . M#M#%MM#*+:+*+=:#=     %##%-
+                                                    * .*+   .+o#M#-.  *#%%o:                     +%%=.           ......*#%        . ##MMMM#MoM%+*=+*o     -oM*o=
+                                                   :% .*  .=%o%%oo.   o#%%%+.                   .. .+o%%*+-.         :%#:          .o#*o%##+ :#Mo=:# .+*#M#o##%
+                                                   =M ..  =o*==o*    .###%%=.                     ......:*o%%#%%%o%%##*..           .#%oo*ooo%#M#+%M#M#%o+ %#-
+                                                   -@.    o*====.    :#%##%*+.   .   .                  ..-:::::++**+....         .  .*o%%o*****=+#=-.  . .M+
+                                                    M=    *o===**.   *#%##%%::..                          ...-:+=*:.                  -:+=*oo*+:-*+       #%
+                                                    %#  .  .-.:ooo   %######*+:.. .                    ....-::::o:.         ..    ..   =.-:-:::: %+     .=#
+                                                    :@  -:-    -**  .#######oo+:::                 .....--:-...-%+-..-:++++::::-...... #o......  #-     +#.
+                                                     %%  .-      .. =#######%o*+=:....           .....-...      .%ooo#MM@@@#o:::::::+=-.%#*-     =     +#.
+                                                     -M*       ...  o####%###%oo==:-..-.       ....:::=+::-... ..-+***+:++=*o===+====+:.+.+o%o=: :   :%%.
+                                                      :M%         ..o#%%#%%M#%#o*o+::+:.       ..:o####MM%o%#%%%%###M####o*o***oo%M@@o+=:--...:*o#%oo*-
+                                                       .MM*      ---#####%#####o#*=+*+=....  ..-*#MM##MMMMM#MMM#MMMMMMMMMMM#%%%%%oooo*+-........ o=
+                                                        :%@@%=++*%:+#####%#%M###%o*%%*:+::..:--%#M%%#M####M##########M#MMMMM##MMMMMo-..:-.       #+
+                                                          :M@%o%oo:o####%#%#M#M#%%o##*++=::-::oM###MMMMMMMMM############MMMMMMMMMMMM#:.-:..      @-
+                                                           M@+.-+==%%##M#%%M%####o%##o*o*=::+*#M##MMMMMMM####%########MMM#@@MMM##M##M#+--:-.... .@
+                                                           M@:.-::.##M#M###%%#M#%%###%o%o=*+=%#M#MMMM##MMM####%%%ooo**o%oo*o##MM##M%###%o:-.... %#
+                                                           M@.   ..%######%%##M######%o%%%o*o%%M#MMM##%**%%%oooooo%%o****o*=o%##MMMM###M##+:....@:
+                                                           M@    .:%##%###%#%########%o%#oo%o%##MMM#o***+-:+==+:-..-:=o%%o*oooo%%#MMM####M#--:-%%
+                                                          -MM     :%####MM###M#########%%%o%###MMM#**++:::.  .::+:-. ...:==o%%#%%%##MMMM##M=::+@-
+                                                          *M#     :%###MM#M%%#%M####%####%%%##MMMM%*=:.---....    .-::---....-=o##M#MMMMM#M*:+#o
+                                                          #@o     .oM##M#M########M#%#####%###MM##oo=+:.-+:==+++::-.....-----:+=o###MMMMMM#==%#.
+                                                          =@+      =M####MMM######M#%#M###%##MM#o%#%o=:+::+*o%######o%%*=::::+++==o#MMMMMM%o%#=
+                                                          *@.      :#MM##MMM#####MM###MM##MMMM%#####o=o*+=*%#########MMMM#%o=:-.-=o%#MMMM#o#M%
+                                                          %M        =MMM#MMMMMM#MMMM##MM###MM##@M###o%%o==o%###M#MMMMMMMMM###%*****o#MM##%#M#.
+                                                          Mo         *#MMMMMMMMMM#MMM#MM##MM##MM######o%*oo#####MMMMMMMMMMM####%o**o#MM###M#=
+                                                         +@:         .*%MMMMMM#MMMMMMM####MMMM###MM#%##o%%%###MMMMMMMMMMMMMMMM#%oo%##MM%#MMo
+                                                         %@          .-+o#MMMMM#MM##MMMM#%MMMM###M#%###%##########MMMMMMMMMMM####%##M#MMM##.
+                                                        .@o           .-+=*#M@MMMM#MMMMMMo#MM#M##o##M#%######%#%####MMMM###MM###%#MM#%MM#M*
+                                                        o@             .-++=*#MMMMMMM#MMM#MM########M%%%##%%#%%%#%%M#M#########M###MMoMMM#
+                                                       .Mo             ..-:++*%#MMMMMMMMMMM###MMM##M###MM###%#%#%#%#####%%###%#M#M###M#M%
+                                                       %@                ..:+++*o#MMMMMMMMM##oMMM##MM##M%##%#M#%#########%###%##MMM%#MM=
+                                                      o@.                 ..-+++=*o#MMMMMMMMMMMMMM##MMM#%##MMM###MMMMM###%#####o##M###:
+                                                     o@-                   ..-:++=**o%MMMMMMMMMMMMMMMM%#M*MM#M#M#MMMM######M##%MM##M#.
+                                                    %@.                   . ...:+:+=***%#MMMMMMMMMMMM#o#MMMMMMMM#MMMM##MMMM##MMM###%
+                                                   *#                     .-....-:::+=*=*o%MM@MMMMMMM###MM#MMMMM#MMM###MMMM##MM##Mo
+                                                   =                       .-.....::++=***=*%#M@MMMMMMMMMM#MMMM#%MMMMMMMMM###M##M*
+                                                                            .-.....:++++=******o##MMMMMMMMMMMMMMMMMMMMMMMMMMMM#*.
+                                                                             .......:++::++*******o%#MMMMMMMMMMMMMMMMMMMMMMM%+
+                                                                              ........:++:::+=********o%#MMMM@MMMMMMMMMMM#*.
+                                                                              .........-::::::+=**********oo%%%%####%#o:
+                                                                               ..........:+++::+++=***********=*==+.-*
+                                                                                ..........-:+++::::+=**********=+:- #
+                                                                                ............:+:++::::++=*****=++:- :*
+                                                                                 ...........-::++++==+==***=+++::- #
+                                                                                  ...........:++::::++=====+++:--. *
+                                                                                  .-..........:+::++++::::+++:--: *:
+                                                                                   ............:+++++++++++::--:. Mo
+                                                                                       ........-++++++::+::----: -#%
+                                                                                          ......-+++++++::------ %%%+
+                                                                                               ..-:::::::::----.+%%%=
+                                                                                                   ..---:::---:==%%%*
+                                                                                                         ....:++=%#M=
+
+

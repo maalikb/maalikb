@@ -1,0 +1,36 @@
+name: Update cards
+
+# Redraws the cards from fresh contribution data every day, on every push to main,
+# and on demand. Commits only when an SVG or the data actually changed.
+
+"on":
+  schedule:
+    - cron: "30 0 * * *" # 06:00 IST
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths-ignore: ["cards/**", "data/contributions.json"]
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
+      - name: Fetch contributions
+        run: bun run fetch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Render cards
+        run: bun run render
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cards data/contributions.json
+          git diff --cached --quiet || git commit -m "chore: refresh cards [skip ci]"
+          git push
