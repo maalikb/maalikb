@@ -1,3 +1,7 @@
 node_modules/
 preview*.html
 .DS_Store
+
+# Generated; published to the cards branch by the workflow.
+cards/
+data/contributions.json

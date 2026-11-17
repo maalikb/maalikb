@@ -1,7 +1,9 @@
 name: Update cards
 
 # Redraws the cards from fresh contribution data every day, on every push to main,
-# and on demand. Commits only when an SVG or the data actually changed.
+# and on demand, then publishes them to the `cards` branch, which the README's images
+# load from. main is protected (changes go through pull requests), so the bot never
+# commits there; `cards` holds only generated files.
 
 "on":
   schedule:
@@ -9,10 +11,13 @@ name: Update cards
   workflow_dispatch: {}
   push:
     branches: [main]
-    paths-ignore: ["cards/**", "data/contributions.json"]
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-cards
+  cancel-in-progress: false
 
 jobs:
   cards:
@@ -27,10 +32,22 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Render cards
         run: bun run render
-      - name: Commit changes
+      - name: Publish to the cards branch
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add cards data/contributions.json
-          git diff --cached --quiet || git commit -m "chore: refresh cards [skip ci]"
-          git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch --depth 1 origin cards; then
+            git worktree add -B cards out FETCH_HEAD
+          else
+            git worktree add --detach out
+            git -C out checkout --orphan cards
+            git -C out rm -rfq .
+          fi
+          rm -rf out/cards out/data
+          mkdir -p out/data
+          cp -R cards out/cards
+          cp data/contributions.json out/data/
+          cd out
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: refresh cards"
+          git push origin cards
